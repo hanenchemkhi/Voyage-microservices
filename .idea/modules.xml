@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend/config-server/config-server.iml" filepath="$PROJECT_DIR$/backend/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/discovery/discovery.iml" filepath="$PROJECT_DIR$/backend/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/gateway/gateway.iml" filepath="$PROJECT_DIR$/backend/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/guest-service/guest-service.iml" filepath="$PROJECT_DIR$/backend/guest-service/guest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/reservation-service/reservation-service.iml" filepath="$PROJECT_DIR$/backend/reservation-service/reservation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/room-service/room-service.iml" filepath="$PROJECT_DIR$/backend/room-service/room-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/voyage-microservices.iml" filepath="$PROJECT_DIR$/.idea/voyage-microservices.iml" />
+    </modules>
+  </component>
+</project>
