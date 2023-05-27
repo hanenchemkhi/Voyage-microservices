@@ -14,6 +14,9 @@ management:
       probability: 1.0
 
 spring:
+  spring:
+    application:
+      name: ROOM-SERVICE
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/room_db?createDatabaseIfNotExist=true
